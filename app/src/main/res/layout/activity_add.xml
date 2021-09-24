@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="New Appointment"
+        android:textColor="#000"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Informations about Pet"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:hint="Pet's Name"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/txtName"/>
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:hint="Pet's Type"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/txtType"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:hint="Pet's Age"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/txtAge"/>
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:hint="Pet's Image"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/txtImageUrl"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Informations about Owner"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:hint="Owner's Name"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/txtOwner"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:hint="Contact No"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/txtPhone"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:hint="Email Address"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/txtEmail"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:hint="City"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/txtCity"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:hint="Appointment Date"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/txtDate"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="10dp"
+        android:text="Submit"
+        android:textSize="21dp"
+        android:textAllCaps="false"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/btnAdd"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="10dp"
+        android:text="Back"
+        android:textSize="21dp"
+        android:textAllCaps="false"
+        android:backgroundTint="#0B079F"
+        android:layout_gravity="center"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+        android:id="@+id/btnBack"/>
+
+</LinearLayout>

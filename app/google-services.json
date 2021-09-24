@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609642813273",
+    "firebase_url": "https://pcproject-9f20b-default-rtdb.firebaseio.com",
+    "project_id": "pcproject-9f20b",
+    "storage_bucket": "pcproject-9f20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609642813273:android:2ac4864002e5859105de48",
+        "android_client_info": {
+          "package_name": "com.example.petclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609642813273-g0p2cubdsm5ebp349rr1gdtf7gfb8j39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzbfDpLpMshvPloL9KVlOCtgQfTCxVd_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609642813273-g0p2cubdsm5ebp349rr1gdtf7gfb8j39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
