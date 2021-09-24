@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418535930523",
+    "project_id": "petcaretest-4c8fd",
+    "storage_bucket": "petcaretest-4c8fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418535930523:android:e275b03a81efe8dd54643e",
+        "android_client_info": {
+          "package_name": "com.example.lostpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418535930523-tn9283meod9cqaem4cjo0903u2ft410d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPc3rdneslFKrCjacb0QAAWJWoSPAgF3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418535930523-tn9283meod9cqaem4cjo0903u2ft410d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
