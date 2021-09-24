@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191220230433",
+    "project_id": "petapp-858b7",
+    "storage_bucket": "petapp-858b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191220230433:android:52c0e3b5e3df0802673660",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191220230433-8tcvvmrc9qo6fcuob4j219ok0jfc3s01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6iWLGBFBa2ZzM4fFIASl-NE-c5YsFB7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191220230433-8tcvvmrc9qo6fcuob4j219ok0jfc3s01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
